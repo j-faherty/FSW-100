@@ -1,0 +1,29 @@
+#main-header {
+    color: blue;
+}
+
+.header {
+    color: green;
+    font-family: Georgia;
+}
+
+html > body {
+    background-color: lightcyan;
+}
+
+#youMightAlsoLike {
+    text-transform: uppercase;
+}
+
+.img {  
+    Padding: 10px,10px,10px,10px;
+    float: left;
+}
+
+#nasaLink {
+    text-decoration: none;
+}
+
+#ninetyPercent {
+    color: lightcoral;
+}
