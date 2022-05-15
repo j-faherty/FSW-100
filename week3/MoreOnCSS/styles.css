@@ -4,22 +4,26 @@ html, body {
     padding: 0;
 
 }
-
+.nav {
+    position: fixed;
+}
 #space-one {
-
+    
     border: 2px solid black;
     padding: 5px;
-    margin: 30px;
+    margin: 10px;
 }
 #space-two {
+    
     border: 2px solid black;
     padding: 5px;
-    margin: 30px;
+    margin: 10px;
 }
 #space-three {
+    
     border: 2px solid black;
     padding: 5px;
-    margin: 30px;
+    margin: 10px;
 }
 img {
     display: block;
@@ -27,8 +31,5 @@ img {
     float: left;
     padding: 10px;
     width: 200;
-    height: 200;
+    height: 170;
 }
-
-
-/* position: fixed; */ 
