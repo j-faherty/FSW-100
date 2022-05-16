@@ -1,0 +1,40 @@
+
+.header {
+    color: #AB5AAD;
+    font-size: 60px;
+    text-align: center;
+    text-decoration: underline;
+}
+#h3 {
+    color: #AB5AAD;
+    text-align: center;
+}
+.footer {
+    color: #AB5AAD;
+    text-align: center;
+}
+#navbar {
+    display: inline;
+    text-align: center;
+}
+
+#ul {
+    font-size: 20px;
+    display: inline;
+    text-align: center;
+}
+a:link {
+    color: #5DAD5A;
+}
+.tab {
+    text-indent: 40px;
+}
+.flower {
+    position: relative;
+    padding: 20px;
+    border: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
